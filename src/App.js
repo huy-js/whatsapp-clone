@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="app">
       {/* <h1>Lets build a MERN Whatsapp clone</h1> */}
-      <div className="app_body">
+      <div className="app__body">
         <Sidebar />
         <Chat />
       </div>
